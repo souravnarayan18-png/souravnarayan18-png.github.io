@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://souravnarayan18-png.github.io/andronex-studio/sitemap.xml
